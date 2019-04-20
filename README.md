@@ -1,6 +1,6 @@
 # mnist-pytorch
 
-![Pytorch](https://pytorch.org/assets/images/pytorch-logo.png =525x)
+![Pytorch|52x52](https://pytorch.org/assets/images/pytorch-logo.png)
 
 Classifying MNIST dataset using different approaches with Pytorch. 
 
